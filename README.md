@@ -22,7 +22,7 @@ This project uses PostgreSQL to explore and analyze Zepto product inventory data
 ## Project Structure
 
 * `sql/zepto_analysis.sql` — table creation, data cleaning, and analysis queries.
-* `data/zepto_inventory.csv` — dataset,
+* `data/zepto_v2.csv` — dataset,
 
 
 ## SQL Concepts Used
